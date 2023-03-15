@@ -1,6 +1,6 @@
 # jornadajogo
 Website desenvolvido durante o evento Jornada do Zero a Primeira vaga, da empresa Rocketseat. Tema: Jogo de terror: ENDLESS NIGHTMARE
-
+<!--
 Meu Aprendizado até aqui: 
 Aula 1
 O que é HTML e como usa-lo
