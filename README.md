@@ -7,12 +7,12 @@ Aula 1<br>
 O que é HTML e como usa-lo<br>
 !["abrir" HTML];<br>
 <h1,2,3,4></h1,2,3,4> [titulos e subtitulos];<br>
-<p></p> [paragrafo];<br>
+<*p><*/p> [paragrafo];<br>
 <br>[breck, espaço];<br>
-<a href=""></a> [acrescentar links];<br>
-<span></span> [demilitar/agrupar elementos do html];<br>
-<title></title> [colocar titulo na "aba"];<br>
-<!-- --> [deixar comentarios ou anular/congelar parte do projeto];<br>
+<*a href=""><*/a> [acrescentar links];<br>
+<*span><*/span> [demilitar/agrupar elementos do html];<br>
+<*title><*/title> [colocar titulo na "aba"];<br>
+<*!-- --> [deixar comentarios ou anular/congelar parte do projeto];<br>
 <br>
 Aula 2<br>
 * [formata todo o projeto, facilita muito para aplicar margens e outras coisas que precisam ser padronizadas];<br>
