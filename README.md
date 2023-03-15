@@ -15,7 +15,7 @@ O que é HTML e como usa-lo<br>
 <*!-- --> [deixar comentarios ou anular/congelar parte do projeto];<br>
 <br>
 Aula 2<br>
-* [formata todo o projeto, facilita muito para aplicar margens e outras coisas que precisam ser padronizadas];<br>
+* (asterisco) [formata todo o projeto, facilita muito para aplicar margens e outras coisas que precisam ser padronizadas];<br>
 margin: [define a área de margem nos quatro lados do elemento];<br>
 box-sizing: [utilizada para alterar a propriedade padrão da box model, usada para calcular larguras (widths) e alturas (heights) dos elementos];<br>
     border-box [faz com que o navegador não calcule a dimensão de um elemento somando bordas e margens com altura e largura];<br>
